@@ -1,0 +1,426 @@
+{
+    "GRAND TOTAL": {
+        "State": "GRAND TOTAL",
+        "Number of Records": "3,443",
+        "Closed With Payment Losses": "1,565",
+        "Open Losses": "1,001",
+        "Closed Without Payment Losses": "877",
+        " Total Payments ": " $ 41,457,586 "
+    },
+    "ALABAMA": {
+        "State": "ALABAMA",
+        "Number of Records": "114",
+        "Closed With Payment Losses": "29",
+        "Open Losses": "66",
+        "Closed Without Payment Losses": "19",
+        " Total Payments ": " $ 465,211 "
+    },
+    "ALASKA": {
+        "State": "ALASKA",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "1",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ 54,613 "
+    },
+    "ARIZONA": {
+        "State": "ARIZONA",
+        "Number of Records": "10",
+        "Closed With Payment Losses": "4",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "6",
+        " Total Payments ": " $ 107,040 "
+    },
+    "ARKANSAS": {
+        "State": "ARKANSAS",
+        "Number of Records": "30",
+        "Closed With Payment Losses": "16",
+        "Open Losses": "5",
+        "Closed Without Payment Losses": "9",
+        " Total Payments ": " $ 355,514 "
+    },
+    "CALIFORNIA": {
+        "State": "CALIFORNIA",
+        "Number of Records": "64",
+        "Closed With Payment Losses": "23",
+        "Open Losses": "12",
+        "Closed Without Payment Losses": "29",
+        " Total Payments ": " $ 479,859 "
+    },
+    "COLORADO": {
+        "State": "COLORADO",
+        "Number of Records": "3",
+        "Closed With Payment Losses": "1",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ 391 "
+    },
+    "CONNECTICUT": {
+        "State": "CONNECTICUT",
+        "Number of Records": "20",
+        "Closed With Payment Losses": "9",
+        "Open Losses": "4",
+        "Closed Without Payment Losses": "7",
+        " Total Payments ": " $ 298,389 "
+    },
+    "DELAWARE": {
+        "State": "DELAWARE",
+        "Number of Records": "20",
+        "Closed With Payment Losses": "9",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "10",
+        " Total Payments ": " $ 90,389 "
+    },
+    "DISTRICT OF COLUMBIA": {
+        "State": "DISTRICT OF COLUMBIA",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "2",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ 5,775 "
+    },
+    "FLORIDA": {
+        "State": "FLORIDA",
+        "Number of Records": "605",
+        "Closed With Payment Losses": "274",
+        "Open Losses": "140",
+        "Closed Without Payment Losses": "191",
+        " Total Payments ": " $ 11,350,340 "
+    },
+    "GEORGIA": {
+        "State": "GEORGIA",
+        "Number of Records": "102",
+        "Closed With Payment Losses": "33",
+        "Open Losses": "46",
+        "Closed Without Payment Losses": "23",
+        " Total Payments ": " $ 665,422 "
+    },
+    "HAWAII": {
+        "State": "HAWAII",
+        "Number of Records": "21",
+        "Closed With Payment Losses": "4",
+        "Open Losses": "2",
+        "Closed Without Payment Losses": "15",
+        " Total Payments ": " $ 120,006 "
+    },
+    "IDAHO": {
+        "State": "IDAHO",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ -   "
+    },
+    "ILLINOIS": {
+        "State": "ILLINOIS",
+        "Number of Records": "45",
+        "Closed With Payment Losses": "19",
+        "Open Losses": "14",
+        "Closed Without Payment Losses": "12",
+        " Total Payments ": " $ 277,255 "
+    },
+    "INDIANA": {
+        "State": "INDIANA",
+        "Number of Records": "13",
+        "Closed With Payment Losses": "3",
+        "Open Losses": "3",
+        "Closed Without Payment Losses": "7",
+        " Total Payments ": " $ 20,800 "
+    },
+    "IOWA": {
+        "State": "IOWA",
+        "Number of Records": "9",
+        "Closed With Payment Losses": "6",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "2",
+        " Total Payments ": " $ 47,819 "
+    },
+    "KANSAS": {
+        "State": "KANSAS",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ -   "
+    },
+    "KENTUCKY": {
+        "State": "KENTUCKY",
+        "Number of Records": "95",
+        "Closed With Payment Losses": "43",
+        "Open Losses": "40",
+        "Closed Without Payment Losses": "12",
+        " Total Payments ": " $ 982,313 "
+    },
+    "LOUISIANA": {
+        "State": "LOUISIANA",
+        "Number of Records": "130",
+        "Closed With Payment Losses": "59",
+        "Open Losses": "25",
+        "Closed Without Payment Losses": "46",
+        " Total Payments ": " $ 1,975,552 "
+    },
+    "MAINE": {
+        "State": "MAINE",
+        "Number of Records": "3",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "2",
+        " Total Payments ": " $ -   "
+    },
+    "MARYLAND": {
+        "State": "MARYLAND",
+        "Number of Records": "55",
+        "Closed With Payment Losses": "39",
+        "Open Losses": "7",
+        "Closed Without Payment Losses": "9",
+        " Total Payments ": " $ 837,467 "
+    },
+    "MASSACHUSETTS": {
+        "State": "MASSACHUSETTS",
+        "Number of Records": "26",
+        "Closed With Payment Losses": "9",
+        "Open Losses": "6",
+        "Closed Without Payment Losses": "11",
+        " Total Payments ": " $ 321,722 "
+    },
+    "MICHIGAN": {
+        "State": "MICHIGAN",
+        "Number of Records": "98",
+        "Closed With Payment Losses": "50",
+        "Open Losses": "20",
+        "Closed Without Payment Losses": "28",
+        " Total Payments ": " $ 1,236,995 "
+    },
+    "MINNESOTA": {
+        "State": "MINNESOTA",
+        "Number of Records": "16",
+        "Closed With Payment Losses": "11",
+        "Open Losses": "3",
+        "Closed Without Payment Losses": "2",
+        " Total Payments ": " $ 110,437 "
+    },
+    "MISSISSIPPI": {
+        "State": "MISSISSIPPI",
+        "Number of Records": "301",
+        "Closed With Payment Losses": "109",
+        "Open Losses": "139",
+        "Closed Without Payment Losses": "53",
+        " Total Payments ": " $ 4,030,127 "
+    },
+    "MISSOURI": {
+        "State": "MISSOURI",
+        "Number of Records": "47",
+        "Closed With Payment Losses": "32",
+        "Open Losses": "2",
+        "Closed Without Payment Losses": "13",
+        " Total Payments ": " $ 317,258 "
+    },
+    "NEBRASKA": {
+        "State": "NEBRASKA",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "2",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ -   "
+    },
+    "NEVADA": {
+        "State": "NEVADA",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ -   "
+    },
+    "NEW HAMPSHIRE": {
+        "State": "NEW HAMPSHIRE",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "1",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ 9,757 "
+    },
+    "NEW JERSEY": {
+        "State": "NEW JERSEY",
+        "Number of Records": "61",
+        "Closed With Payment Losses": "27",
+        "Open Losses": "6",
+        "Closed Without Payment Losses": "28",
+        " Total Payments ": " $ 855,597 "
+    },
+    "NEW MEXICO": {
+        "State": "NEW MEXICO",
+        "Number of Records": "8",
+        "Closed With Payment Losses": "1",
+        "Open Losses": "4",
+        "Closed Without Payment Losses": "3",
+        " Total Payments ": " $ 5,848 "
+    },
+    "NEW YORK": {
+        "State": "NEW YORK",
+        "Number of Records": "331",
+        "Closed With Payment Losses": "241",
+        "Open Losses": "36",
+        "Closed Without Payment Losses": "54",
+        " Total Payments ": " $ 7,295,159 "
+    },
+    "NORTH CAROLINA": {
+        "State": "NORTH CAROLINA",
+        "Number of Records": "266",
+        "Closed With Payment Losses": "164",
+        "Open Losses": "56",
+        "Closed Without Payment Losses": "46",
+        " Total Payments ": " $ 2,534,754 "
+    },
+    "NORTH DAKOTA": {
+        "State": "NORTH DAKOTA",
+        "Number of Records": "19",
+        "Closed With Payment Losses": "12",
+        "Open Losses": "3",
+        "Closed Without Payment Losses": "4",
+        " Total Payments ": " $ 65,749 "
+    },
+    "OHIO": {
+        "State": "OHIO",
+        "Number of Records": "13",
+        "Closed With Payment Losses": "2",
+        "Open Losses": "3",
+        "Closed Without Payment Losses": "8",
+        " Total Payments ": " $ 15,537 "
+    },
+    "OKLAHOMA": {
+        "State": "OKLAHOMA",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ -   "
+    },
+    "OREGON": {
+        "State": "OREGON",
+        "Number of Records": "34",
+        "Closed With Payment Losses": "3",
+        "Open Losses": "24",
+        "Closed Without Payment Losses": "7",
+        " Total Payments ": " $ 193,402 "
+    },
+    "PENNSYLVANIA": {
+        "State": "PENNSYLVANIA",
+        "Number of Records": "44",
+        "Closed With Payment Losses": "33",
+        "Open Losses": "4",
+        "Closed Without Payment Losses": "7",
+        " Total Payments ": " $ 629,988 "
+    },
+    "PUERTO RICO": {
+        "State": "PUERTO RICO",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "2",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ -   "
+    },
+    "RHODE ISLAND": {
+        "State": "RHODE ISLAND",
+        "Number of Records": "2",
+        "Closed With Payment Losses": "1",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ 9,420 "
+    },
+    "SOUTH CAROLINA": {
+        "State": "SOUTH CAROLINA",
+        "Number of Records": "134",
+        "Closed With Payment Losses": "47",
+        "Open Losses": "50",
+        "Closed Without Payment Losses": "37",
+        " Total Payments ": " $ 723,129 "
+    },
+    "SOUTH DAKOTA": {
+        "State": "SOUTH DAKOTA",
+        "Number of Records": "7",
+        "Closed With Payment Losses": "3",
+        "Open Losses": "2",
+        "Closed Without Payment Losses": "2",
+        " Total Payments ": " $ 65,867 "
+    },
+    "TENNESSEE": {
+        "State": "TENNESSEE",
+        "Number of Records": "153",
+        "Closed With Payment Losses": "64",
+        "Open Losses": "73",
+        "Closed Without Payment Losses": "16",
+        " Total Payments ": " $ 1,333,651 "
+    },
+    "TEXAS": {
+        "State": "TEXAS",
+        "Number of Records": "126",
+        "Closed With Payment Losses": "34",
+        "Open Losses": "23",
+        "Closed Without Payment Losses": "69",
+        " Total Payments ": " $ 460,587 "
+    },
+    "UTAH": {
+        "State": "UTAH",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "0",
+        "Closed Without Payment Losses": "1",
+        " Total Payments ": " $ -   "
+    },
+    "VERMONT": {
+        "State": "VERMONT",
+        "Number of Records": "25",
+        "Closed With Payment Losses": "20",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "4",
+        " Total Payments ": " $ 614,729 "
+    },
+    "VIRGINIA": {
+        "State": "VIRGINIA",
+        "Number of Records": "68",
+        "Closed With Payment Losses": "21",
+        "Open Losses": "22",
+        "Closed Without Payment Losses": "25",
+        " Total Payments ": " $ 291,280 "
+    },
+    "VIRGIN ISLANDS": {
+        "State": "VIRGIN ISLANDS",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ -   "
+    },
+    "WASHINGTON": {
+        "State": "WASHINGTON",
+        "Number of Records": "225",
+        "Closed With Payment Losses": "54",
+        "Open Losses": "136",
+        "Closed Without Payment Losses": "35",
+        " Total Payments ": " $ 1,517,914 "
+    },
+    "WEST VIRGINIA": {
+        "State": "WEST VIRGINIA",
+        "Number of Records": "12",
+        "Closed With Payment Losses": "2",
+        "Open Losses": "8",
+        "Closed Without Payment Losses": "2",
+        " Total Payments ": " $ 17,163 "
+    },
+    "WISCONSIN": {
+        "State": "WISCONSIN",
+        "Number of Records": "71",
+        "Closed With Payment Losses": "50",
+        "Open Losses": "4",
+        "Closed Without Payment Losses": "17",
+        " Total Payments ": " $ 667,361 "
+    },
+    "WYOMING": {
+        "State": "WYOMING",
+        "Number of Records": "1",
+        "Closed With Payment Losses": "0",
+        "Open Losses": "1",
+        "Closed Without Payment Losses": "0",
+        " Total Payments ": " $ -   "
+    }
+}

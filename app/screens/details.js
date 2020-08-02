@@ -7,6 +7,7 @@ import Eq from '../assets/img/earthquake.png'
 import Fire from '../assets/img/fire.png'
 import Storm from '../assets/img/storm.png'
 import Flood from '../assets/img/flood.png'
+import Radio from '../assets/img/radioactive.png'
 
 var valueColorE="#FFF";
 var valueColorF="#FFF";
@@ -155,7 +156,7 @@ if(this.state.overall>0 && this.state.overall<=20){
 
   render() {
     const { navigation, route } = this.props;
-    const { latitude,longitude } = route.params;
+    const { latitude,longitude,scoreset } = route.params;
     return (
 
       <View style={{backgroundColor:'#FFF', flex:1}}>
@@ -166,13 +167,14 @@ if(this.state.overall>0 && this.state.overall<=20){
             <Text style={{fontSize:50,fontFamily:'Avenir', color:'#DDFBD2', marginTop:'1%', marginLeft:'25%'}}>{latitude.toFixed(2)},{longitude.toFixed(2)}</Text>
         </View>
         <View style={styles.mapContainer}> 
-        <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'10%', left:'17%', color:valueColorE}}>{this.state.quake}</Text><Image source={Eq} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'20%', left:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'30%', left:'10%', color:'#6B92D6'}}>EARTHQUAKE</Text>
-        <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'40%', left:'17%', color:valueColorF}}>{this.state.fire}</Text><Image source={Fire} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'50%', left:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'60%', left:'20%', color:'#6B92D6'}}>FIRE</Text>
+        <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'10%', left:'20%', color:valueColorE}}>{this.state.quake}</Text><Image source={Eq} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'20%', left:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'30%', left:'10%', color:'#6B92D6'}}>EARTHQUAKE</Text>
+        <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'40%', left:'20%', color:valueColorF}}>{this.state.fire}</Text><Image source={Fire} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'50%', left:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'60%', left:'20%', color:'#6B92D6'}}>FIRE</Text>
         <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'10%', right:'-7%', color:valueColorFl}}>{this.state.flood}</Text><Image source={Flood} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'20%', right:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'30%', right:'-5%', color:'#6B92D6'}}>FLOOD</Text>
         <Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:30, position:'absolute', top:'40%', right:'-7%', color:valueColorS}}>{this.state.storm}</Text><Image source={Storm} style={{height:40, width:40, resizeMode:'contain', position:'absolute', top:'50%', right:'20%'}}></Image><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'60%', right:'-5%', color:'#6B92D6'}}>STORM</Text>
-        <Text style={{height:50, width:150, fontFamily:'Avenir', fontSize:50, position:'absolute', top:'75%', left:'37%', color:valueColorO}}>{this.state.overall}</Text><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'85%', left:'30%', color:'#6B92D6', textAlign:'center'}}>OVERALL</Text>
+        <Text style={{height:50, width:150, fontFamily:'Avenir', fontSize:40, position:'absolute', top:'75%', left:'17%', color:valueColorO}}>{this.state.overall}</Text><Text style={{height:40, width:150, fontFamily:'Avenir', fontSize:20, position:'absolute', top:'85%', left:'10%', color:'#6B92D6', textAlign:'center'}}>OVERALL</Text>
+        <Image  source={Radio} style={{height:10, width:10, position:'absolute', zIndex:2, resizeMode:'contain',marginLeft:'60%', marginTop:'95%' }}></Image><Text style={{fontFamily:'Avenir', fontSize:40, position:'absolute', top:'75%', left:'57%', color:'transparent', zIndex:5}} onPress={()=>{this.props.navigation.navigate('Radio')}}>RADIO</Text>
       </View>
-      <Image source={Bg} style={{width:'100%', height:317,  position:'absolute', bottom:-70, zIndex:1, opacity:0.5}}></Image>
+      
       <Text style={{borderRadius:10, width:'80%', position:'absolute', zIndex:3,bottom:'2.5%', alignSelf:'center',textAlign:'center', height:70,fontFamily:'Avenir', fontSize:30, textAlignVertical:'center', color:'transparent'}}  onPress={() => {
             this.props.navigation.navigate('State');
           }}>Confirm</Text>

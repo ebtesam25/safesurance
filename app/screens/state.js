@@ -126,6 +126,7 @@ else{
             this.props.navigation.navigate('Details', {
               latitude: this.state.amarker[0].latlng.latitude,
               longitude: this.state.amarker[0].latlng.longitude,
+              scoreset: "up",
             });
           }}>Details</Text>
       </View>

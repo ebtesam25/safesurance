@@ -60,6 +60,7 @@ export default class TheMap extends Component {
             this.props.navigation.navigate('Details', {
               latitude: this.state.markers[0].latlng.latitude,
               longitude: this.state.markers[0].latlng.longitude,
+              
             });
           }}>Confirm</Text>
       </View>
